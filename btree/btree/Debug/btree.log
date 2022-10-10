@@ -1,0 +1,9 @@
+﻿  btree.cpp
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(364,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(407,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(429,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(448,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(466,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(474,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zuzu5\source\repos\btree\btree\btree.cpp(492,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  btree.vcxproj -> C:\Users\zuzu5\source\repos\btree\Debug\btree.exe
